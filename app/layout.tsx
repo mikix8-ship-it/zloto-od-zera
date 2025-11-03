@@ -1,6 +1,5 @@
 ﻿import type { Metadata } from "next";
 import { Analytics } from "@/components/Analytics";
-import { generateProductSchema } from "@/lib/seo";
 import { SITE_URL, PRODUCT_NAME, SEO_DESCRIPTION } from "@/lib/constants";
 import "@/styles/globals.css";
 
@@ -71,11 +70,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
 
         <link rel="apple-touch-icon" href="/covers/cover1.png" />
 
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(generateProductSchema()) }}
-        />
-
+        
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
 
