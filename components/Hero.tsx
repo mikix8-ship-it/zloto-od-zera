@@ -59,17 +59,14 @@ export function Hero({ onBuyClick, onTocClick }: HeroProps) {
           </div>
         </div>
 
-        {/* Right: Book Cover */}
-        <div className="relative h-[500px] sm:h-[600px]">
-          <Image
-            src="/covers/cover1.png"
-            alt="Złoto od Zera - okładka e-booka"
-            fill
-            className="object-contain drop-shadow-2xl"
-            priority
-          />
-          <div className="absolute inset-0 bg-gradient-to-r from-black/20 to-transparent"></div>
-        </div>
+{/* Right: Book Cover */}
+<div className="relative h-[500px] sm:h-[600px] bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-lg flex items-center justify-center shadow-2xl">
+  <div className="text-center text-white">
+    <p className="text-6xl mb-4">📚</p>
+    <p className="text-2xl font-bold">Złoto od Zera</p>
+    <p className="text-sm mt-2 opacity-90">E-book PDF</p>
+  </div>
+</div>
       </div>
     </section>
   );
