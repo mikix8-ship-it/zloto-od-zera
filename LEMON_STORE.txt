@@ -1,0 +1,5 @@
+LEMON_STORE_ID = [Store ID] - https://app.lemonsqueezy.com/products/681071
+LEMON_PRODUCT_ID = [Product ID] - 681071
+LEMON_VARIANT_ID = [Variant ID] - 1070796
+
+API Resend: re_Z5UGwdun_7MWjhuGUZHy6ebQihWggnmt8
