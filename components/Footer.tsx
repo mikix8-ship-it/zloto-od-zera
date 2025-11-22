@@ -6,7 +6,7 @@ export default function Footer() {
           {/* Logo & Description */}
           <div>
             <div className="text-2xl font-serif font-bold mb-4">
-              Złoto <span className="text-gold">od Zera</span>
+              Jak Kupić Złoto <span className="text-gold">BEZ Oszustwa</span>
             </div>
             <p className="text-gray-300 leading-relaxed">
               Kompletny przewodnik po inwestowaniu w złoto dla początkujących. 
@@ -46,7 +46,7 @@ export default function Footer() {
             <h3 className="text-xl font-bold mb-4">Kontakt</h3>
             <div className="space-y-2 text-gray-300">
               <p>
-                <a href="mailto:dam@zlotoodzera.com" className="hover:text-gold transition-colors">
+                <a href="mailto:adam@zlotoodzera.com" className="hover:text-gold transition-colors">
                   dam@zlotoodzera.com
                 </a>
               </p>
