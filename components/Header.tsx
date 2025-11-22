@@ -13,7 +13,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <div className="text-2xl font-serif font-bold text-brown-dark">
-              Złoto <span className="text-gold">od Zera</span>
+              Jak Kupić Złoto <span className="text-gold">BEZ Oszustwa</span>
             </div>
           </Link>
 
