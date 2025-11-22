@@ -12,11 +12,11 @@ export default function FAQSection() {
     },
     {
       question: "Czy jest dla mnie? Jestem kompletnym początkującym.",
-      answer: "TAK! Napisane dla osób z ZERO wiedzą. Brak jargonu, wszystko wyjaśnione krok-po-kroku. Każdy rozdział ma konkretne akcje do zrobienia.",
+      answer: "TAK! Napisane dla osób z zerową wiedzą. Brak żargonu, wszystko wyjaśnione krok-po-kroku. Każdy rozdział ma konkretne akcje do zrobienia.",
     },
     {
       question: "Jakie bonus materiały dostanę?",
-      answer: "7 bonusów:\n✓ Arkusz DCA (Google Sheets)\n✓ Skrypty weryfikacyjne (gotowe do copy-paste)\n✓ Checklist autentyczności\n✓ Szablony emaili do dealerów\n✓ Ranking dealerów (20+ osobiście sprawdzonych)\n✓ Kalkulator podatków (Excel)\n✓ Gotowe checklisty (pre/durante/post zakup)",
+      answer: "7 bonusów:\n✓ Arkusz DCA (Google Sheets)\n✓ Skrypty weryfikacyjne (gotowe do copy-paste)\n✓ Checklisty autentyczności\n✓ Szablony emaili do dealerów\n✓ Ranking dealerów (20+ osobiście sprawdzonych)\n✓ Kalkulator podatków (Excel)\n✓ Gotowe checklisty (pre/durante/post zakup)",
     },
     {
       question: "Czy mogę dostać dofinansowania?",
@@ -24,7 +24,7 @@ export default function FAQSection() {
     },
     {
       question: "W jakim formacie e-book?",
-      answer: "PDF (120+ stron, 400+ KB). Możesz czytać na każdym urządzeniu:\n✓ Computer (Windows/Mac)\n✓ Tablet (iPad/Android)\n✓ Phone (iOS/Android)\n✓ E-reader (Kindle via conversion)\n\nZdobycie dostęp zaraz po zakupie via email z linkiem.",
+      answer: "PDF (120+ stron, 400+ KB). Możesz czytać na każdym urządzeniu:\n✓ Komputer (Windows/Mac)\n✓ Tablet (iPad/Android)\n✓ Telefon (iOS/Android)\n✓ E-reader (Kindle via conversion)\n\nDostęp zaraz po zakupie dzięki wiadomości z linkiem.",
     },
     {
       question: "Czy dostęp wygasa?",
